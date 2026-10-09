@@ -46,3 +46,7 @@ The data model uses a central EV sales table connected to Date, State, and Vehic
 Athira Mohan
 
 Data Analyst | Power BI | SQL | Python | Excel
+
+## 📄 Project Presentation
+
+[View EV Sales Project Presentation](EV-Project-Presentation.pdf)
