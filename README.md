@@ -1,10 +1,8 @@
-# EV-Sales--Analysis-India
-An interactive Power BI dashboard analyzing electric vehicle adoption and sales trends across Indian states.
+
 # Electric Vehicle Adoption Analysis in India
 
 ## 📌 Project Overview
 This project analyzes Electric Vehicle (EV) sales and adoption trends across Indian states from 2014 to 2023 using Power BI.
-
 The dashboard provides insights into EV sales growth, state-wise performance, and vehicle category contributions.
 
 ## 🛠️ Tools & Technologies
